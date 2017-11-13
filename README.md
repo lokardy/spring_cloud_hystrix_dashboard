@@ -1,1 +1,1 @@
-Demonstrates how to launch a dashboard using hystrix stream. To use this dashboard the target application ust expose hystri.xstream end point using spring actuator project
+Demonstrates how to launch a dashboard using hystrix stream. To use this dashboard the target application must expose hystri.xstream end point using spring actuator project
